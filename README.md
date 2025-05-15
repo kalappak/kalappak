@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalappak
+- 👋 Hi, I’m Kalappa Kanchagara
 - 👀 I’m interested in backend and AI
 - 💞️ Working as python developer
 - 📫 How to reach me kalappakanchagara@gmail.com
