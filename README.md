@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalappa Kanchagara
-- 👀 I’m interested in backend and AI
-- 💞️ Working as python developer
+- 👀 I’m interested in Backend and AI
+- 💞️ Working as Python Developer
 - 📫 How to reach me kalappakanchagara@gmail.com
 
 <!---
