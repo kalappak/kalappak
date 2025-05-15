@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kalappak
-- 👀 I’m interested in front-end 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend and AI
+- 💞️ Working as python developer
 - 📫 How to reach me kalappakanchagara@gmail.com
 
 <!---
